@@ -1,4 +1,4 @@
-# Infinite Valley
+# ⛰️ Infinite Valley
 
 This repository contains a landscape generator that runs forever using SDXL on the backend and designed to be delivered in a chronological view in the browser/webview of your choice.
 
