@@ -6,7 +6,7 @@ This repository contains a landscape generator that runs forever using SDXL on t
 
 ## Run the Backend
 
-The backend generation is built using SDXL (a free image generation pipeline) and Django. You can be up in running with no configuration beyond installing dependencies.
+The backend generation is built using SDXL (a free image generation pipeline) and Django. You can be up and running with no configuration beyond installing dependencies by opening your terminal and running:
 
 ```bash
 git clone https://github.com/nftchance/infinite-valley.git
